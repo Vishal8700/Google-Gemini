@@ -26,7 +26,7 @@ Welcome to our Google Gemini ! This Flutter-based application utilizes the Dart 
 
 ##Download
 
-<iframe frameborder="0" src="https://itch.io/embed/2555122?bg_color=222222&amp;fg_color=eeeeee&amp;border_color=363636" width="552" height="167"><a href="https://git-alien.itch.io/google-gemini">Google Gemini by git_alien</a></iframe>
+https://git-alien.itch.io/google-gemini
 
 ## Usage
 
