@@ -1,11 +1,6 @@
 ## Introduction
 
-
-
-
-https://github.com/Vishal8700/Google-Gemini/assets/97828106/31a5e0a2-c773-4db5-b200-fb7ce65348d8
-
-
+![gemini](https://github.com/Vishal8700/Google-Gemini/assets/97828106/fabce046-d0b3-480e-873b-71c4aa1bfc07)
 
 
 Welcome to our Google Gemini ! This Flutter-based application utilizes the Dart language to deliver a seamless chatbot experience. With the power of Gemini Pro, our chatbot is equipped with advanced functionalities to enhance user interaction.
@@ -25,7 +20,7 @@ Welcome to our Google Gemini ! This Flutter-based application utilizes the Dart 
 ##Screenshots 
 
 ![WhatsApp Image 2024-02-28 at 21 31 41_42d7c16a](https://github.com/Vishal8700/Google-Gemini/assets/97828106/f4929460-597c-4551-8924-8199e4cb919b)
-![WhatsApp Image 2024-02-28 at 21 31 40_ccefcfa2](https://github.com/Vishal8700/Google-Gemini/assets/97828106/beb4e416-ea69-4d7f-9630-91912fbe5462)
+
 ![WhatsApp Image 2024-02-28 at 21 31 40_95ab34ee](https://github.com/Vishal8700/Google-Gemini/assets/97828106/3642ad76-6c87-4e4d-b230-a6a84f9a2013)
 
 
