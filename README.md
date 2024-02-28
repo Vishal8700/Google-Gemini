@@ -1,5 +1,7 @@
+<img src="https://github.com/Vishal8700/Google-Gemini/assets/97828106/5016bd1c-89cc-4205-bc6e-ad6d8632f885" width="100">
 
-<img src="https://github.com/Vishal8700/Google-Gemini/assets/97828106/a02f56a9-baa0-4303-a2fd-146b045eab2c"width=100>
+![gemini](https://github.com/Vishal8700/Google-Gemini/assets/97828106/5016bd1c-89cc-4205-bc6e-ad6d8632f885)
+
 
 ## Introduction
 
