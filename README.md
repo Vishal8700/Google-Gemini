@@ -24,6 +24,9 @@ Welcome to our Google Gemini ! This Flutter-based application utilizes the Dart 
 
 ![WhatsApp Image 2024-02-28 at 21 31 40_95ab34ee](https://github.com/Vishal8700/Google-Gemini/assets/97828106/3642ad76-6c87-4e4d-b230-a6a84f9a2013)
 
+##Download
+
+<iframe frameborder="0" src="https://itch.io/embed/2555122?link_color=0484d1" width="552" height="167"><a href="https://git-alien.itch.io/google-gemini">Google Gemini by git_alien</a></iframe>
 
 ## Usage
 
@@ -41,7 +44,7 @@ To configure the app for your specific needs, you can modify various settings an
 
 ## Support
 
-For any assistance or inquiries, please contact our support team at [support@example.com](mailto:support@example.com).
+For any assistance or inquiries, please contact our support team at [support@example.com](mailto:vishal.kumar.ug22nsut.ac.in).
 
 ## License
 
